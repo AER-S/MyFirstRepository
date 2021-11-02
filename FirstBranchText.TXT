@@ -1,0 +1,1 @@
+This file is supposed to be added only to MyFirstBranch branch of the repository 
